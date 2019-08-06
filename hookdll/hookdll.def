@@ -1,0 +1,5 @@
+LIBRARY
+
+EXPORTS
+	KeyboardProc	PRIVATE
+	MouseProc	PRIVATE
